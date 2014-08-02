@@ -1,0 +1,42 @@
+10
+
+dir
+0
+http://cortex.corp.fusionone.com/repos/FusionOne/client/winphone8/tests/ContactsPlayNiceSpike/ContactsPlayNiceSpike/Resources
+http://cortex.corp.fusionone.com/repos/FusionOne
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+0d4b594a-314f-48a2-8a76-49a5eb186291
+
+AppResources.resx
+file
+
+
+
+add
+
+AppResources.Designer.cs
+file
+
+
+
+add
+

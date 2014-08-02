@@ -1,0 +1,140 @@
+10
+
+dir
+0
+http://cortex.corp.fusionone.com/repos/FusionOne/client/winphone8/tests/ContactsPlayNiceSpike/ContactsPlayNiceSpike
+http://cortex.corp.fusionone.com/repos/FusionOne
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+0d4b594a-314f-48a2-8a76-49a5eb186291
+
+App.xaml
+file
+
+
+
+add
+
+MainPage.xaml
+file
+
+
+
+add
+
+GetContacts.xaml.cs
+file
+
+
+
+add
+
+App.xaml.cs
+file
+
+
+
+add
+
+LocalizedStrings.cs
+file
+
+
+
+add
+
+MainPage.xaml.cs
+file
+
+
+
+add
+
+Package.appxmanifest
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+
+ContactsPlayNiceSpike.csproj
+file
+
+
+
+add
+
+GetContactsWithImages.xaml
+file
+
+
+
+add
+
+Assets
+dir
+
+
+
+add
+
+GetContactsWithImages.xaml.cs
+file
+
+
+
+add
+
+Bin
+dir
+
+
+
+add
+
+Resources
+dir
+
+
+
+add
+
+ContactsPlayNiceSpike.csproj.user
+file
+
+
+
+add
+
+GetContacts.xaml
+file
+
+
+
+add
+
