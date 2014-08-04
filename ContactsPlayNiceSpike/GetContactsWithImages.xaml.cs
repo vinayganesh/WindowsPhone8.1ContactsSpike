@@ -33,9 +33,13 @@ namespace ContactsPlayNiceSpike
         {
             try
             {
-                //Bind the results to the list box that displays them in the UI.
-                ContactResultsData1.DataContext = e.Results;
+                ContactResultsData1.DataContext =
+                    from Contact con in e.Results
+                    from Account a in con.Accounts
+                    where a.Name.Contains("AccountName") // change the string to any account name 
+                    select con;
             }
+
             catch (System.Exception)
             {
                 //No results
